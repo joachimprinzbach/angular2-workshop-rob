@@ -5,10 +5,11 @@
         "noImplicitAny": false,
         "outDir": "dist",
         "sourceMap": false,
-        "experimentalDecorators": true
+        "experimentalDecorators": true,
         "emitDecoratorMetadata": true
     },
     "files": [
+        "typings/browser.d.ts",
         "src/main.ts"
     ]
 }
